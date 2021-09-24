@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Xuất Kho",
+    "slug": "Xuất Kho",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-app.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#98e0f1"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo-app.png",
+        "backgroundColor": "#98e0f1"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logo-app.png"
+    }
+  }
+}
